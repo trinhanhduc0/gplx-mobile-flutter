@@ -1,0 +1,13 @@
+Tạo cơ sở dữ liệu MySQL mới và import .sql
+
+Thao tác với MySQL bằng class DBContext trong backend (.net core) - Thay đổi thông tin connect string đúng với thông tin vừa tạo ở MySQL  
+
+Mở frontend Flutter với Android Studio - build/run trên thiết bị ANDROID ( Đã test Android 28)
+
+Chương trình có mặc định chưa chọn hạng lái xe
+
+Click menu và chọn hạng
+Sau khi chọn hạng sẽ tải data từ api và lưu vào local của app (chờ tầm 2-5p để tải dự liệu)
+
+Chọn thi lý thuyết để tiến hành thi thử theo hạng
+Học lý thuyết để ôn tập các dạng câu hỏi theo chương và kiểm tra kết quả đúng sai kèm giải thích (nếu có)
